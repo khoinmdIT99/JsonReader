@@ -1,0 +1,29 @@
+[
+	{
+		"Id":6,
+		"Name":"Coca-Cola 0.5l",
+		"Category":"Sokovi",
+		"Manufacturer":"Coca-Cola",
+		"Supplier":"Coca-Cola Srbija d.o.o.",
+		"Price":69.99,
+		"Description":"Bezalkololno gazirano pice"
+	},
+	{
+		"Id":7,
+		"Name":"Fanta 0.5l",
+		"Category":"Sokovi",
+		"Manufacturer":"Coca-Cola",
+		"Supplier":"Coca-Cola Srbija d.o.o.",
+		"Price":64.99,
+		"Description":"Bezalkololno gazirano pice"
+	},
+	{
+		"Id":8,
+		"Name":"Orbit Spearmint",
+		"Category":"Zvake",
+		"Manufacturer":"Orbit",
+		"Supplier":"Orbit",
+		"Price":59.99,
+		"Description":"Zvakace gume sa ukusom mente"
+	}
+]
